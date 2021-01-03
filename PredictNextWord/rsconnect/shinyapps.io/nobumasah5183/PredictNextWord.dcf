@@ -5,8 +5,8 @@ account: nobumasah5183
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 3439790
-bundleId: 4053679
+bundleId: 4054255
 url: https://nobumasah5183.shinyapps.io/PredictNextWord/
-when: 1609693928.35404
+when: 1609709825.64859
 asMultiple: FALSE
 asStatic: FALSE
